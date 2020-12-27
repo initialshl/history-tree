@@ -1,0 +1,9 @@
+{
+  "name": "History Tree",
+  "version": "1.0",
+  "description": "See your browsing history in a tree view.",
+  "permissions": [
+    "history"
+  ],
+  "manifest_version": 3
+}

@@ -1,2 +1,2 @@
 # history-tree
-Chrome extension that helps you trace your browsing history
+Chrome extension that shows your browsing history in a tree view.
