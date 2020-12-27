@@ -1,2 +1,7 @@
 # History Tree
 Chrome extension that shows your browsing history in a tree view.
+
+## Adding the extension to Chrome browser
+1. Open [chrome://extensions/](chrome://extensions/)
+1. Click `Load unpacked`
+1. Open `history-tree/src`
